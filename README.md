@@ -1,11 +1,8 @@
 # Hi, I'm Bharath Singareddy 👋
+University of Cumberlands
 
 ## About Me
-
-- 🌱 I'm currently learning Git and version control
-- 💻 I'm interested in cloud computing, web dev
-- 📫 How to reach me: your email or social link
-
-## Projects
-
-- [git-learning-log](https://github.com/Bharath-Singareddy/git-learning-log) - My first Git project tracking a learning log
+-  Aspiring ML Engineer • Turning raw data into production-grade AI tools Skilled in large‑language models, real‑time pipelines, and cloud inference using BERT,         Transformers, XGBoost, and modern DevOps (AWS, Docker, FastAPI). Currently completing an MS in CS (grad '26) while building ML systems that scale from research to    business impact.
+- 🌱 I'm Currently completing Masters in Computer Science.
+- 💻 I'm interested in AWS, Devops and AI/ML.
+- 📫 How to reach me: https://www.linkedin.com/in/bharathsingareddy2001/
